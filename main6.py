@@ -18,8 +18,8 @@ from typing import Dict
 
 load_dotenv(verbose=True)
 log.make_dask_sink('rival')
-TOKEN = os.environ["TOKEN"]
-prefix = "!"
+TOKEN = os.environ["MTExNDczODU4NzQ2MDcxNDQ5Nw.Gk9yVH.kGthU39joiUlBSnmfOslGJU5qtqZwCJNT9uXYo"]
+prefix = ","
 os.environ['JISHAKU_NO_UNDERSCORE'] = 'True'
 os.environ['JISHAKU_RETAIN'] = 'True'
 from time import sleep
