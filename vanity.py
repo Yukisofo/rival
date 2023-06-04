@@ -12,7 +12,7 @@ import sqlite3
 
 load_dotenv(verbose=True)
 logger = log.get_logger(__name__)
-TOKEN = os.environ["TOKEN"]
+TOKEN = os.environ["MTExNDczODU4NzQ2MDcxNDQ5Nw.Gk9yVH.kGthU39joiUlBSnmfOslGJU5qtqZwCJNT9uXYo"]
 prefix = "?"
 from time import sleep
 
