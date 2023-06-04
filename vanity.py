@@ -12,8 +12,8 @@ import sqlite3
 
 load_dotenv(verbose=True)
 logger = log.get_logger(__name__)
-TOKEN = os.environ["TOKEN"]
-prefix = "?"
+TOKEN = os.environ["MTA5MTg5MDU0NjU4MDE0ODMxNw.GuXDdF.kDg3frXtRMIS-k9x8Rkg0CgvLpRrXeExDskisE"]
+prefix = ","
 from time import sleep
 
 def progress(percent=0, width=30):
